@@ -22,3 +22,9 @@ Set the path and run the script `data_preprocess.py`
 ```python
     file_name = "ETH-USDT_data_1h.json"
 ```
+
+## 4. run the training code
+Notice : You have to install the dependencies of this code. 
+```bash
+python PPO2_test.py
+```
