@@ -1,2 +1,2 @@
-# WinTheFckingMoneyAndRetire
-I don't want to work, I want to retire.
+# PittFinalProject
+It is the FinalProject of AI course of University of Pittsburgh
