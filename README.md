@@ -16,3 +16,9 @@ if __name__ == "__main__":
     end_date = "2024-04-13"
     demo(start_date, end_date, symbol="ETH-USDT", interval="1h", limit=1440)
 ```
+
+## 3. do the data preprocess
+Set the path and run the script `data_preprocess.py`
+```python
+    file_name = "ETH-USDT_data_1h.json"
+```
