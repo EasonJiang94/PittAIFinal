@@ -6,6 +6,12 @@ You have to go to Bing X Web and create an account.
 
 After you have an account, apply a API KEY
 
+Then change the following setting : 
+```
+BINGX_APIKEY = os.environ.get("BINGX_APIKEY")
+BINGX_SECRETKEY = os.environ.get("BINGX_SECRETKEY")
+```
+
 ## 2. run the get_bingX_data.py
 First you need to add `BINGX_APIKEY` and `BINGX_SECRETKEY` into your environment variables.
 
